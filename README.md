@@ -9,7 +9,7 @@
 | Multi-Scale Temporal Conv | Параллельные ветки с ядрами 3/7/15 кадров |
 | Cross-Person Attention | Моделирование взаимодействия между людьми |
 | Temporal Transformer | Глобальный временной контекст через CLS-токен |
-| Dual Head | Action Recognition (120 кл.) + Anomaly Score |
+| Dual Head | Распознование действий (120 кл.) + вычисление противоправности |
 
 ---
 
