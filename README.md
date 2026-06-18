@@ -46,7 +46,7 @@ python3 eval.py
 
 ### Инференс одного семпла
 ```bash
-python3 inference3.py
+python3 inference.py
 ```
 
 ### Полный пайплайн (видео → результат)
