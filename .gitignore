@@ -1,0 +1,25 @@
+# Данные и веса (слишком большие)
+*.pkl
+*.pt
+*.pth
+*.npy
+
+# Результаты и временные файлы
+nturgb+d_rgb/
+results/
+results_v2/
+results2/
+checkpoints/
+test_videos/
+benchmark/
+comparison/
+__pycache__/
+.venv/
+.DS_Store
+*.pyc
+
+# Прочее
+1
+evaluate.py
+plot_training.py
+plot_training_curves.py
